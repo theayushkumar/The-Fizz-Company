@@ -47,7 +47,7 @@
           slidesPerView: 3,
         },
         991: {
-          slidesPerView: 4,
+          slidesPerView: 5,
         },
         1500: {
           slidesPerView: 6,
