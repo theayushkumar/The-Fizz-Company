@@ -122,31 +122,6 @@ CSS STRUCTURE:
 }
 
 
-.bg-color-1 {
-  background-color: #009688 !important;
-  color: white;
-}
-
-.bg-color-2 {
-  background-color: #8A9A5B !important;
-  color: white;
-}
-
-.bg-color-3 {
-  background: #ff9800 !important;
-  color: white;
-}
-
-.bg-color-4 {
-  background: #191970 !important;
-  color: white;
-}
-
-.bg-color-5 {
-  background: #685ae8 !important;
-  color: white;
-}
-
 
 body {
   --bs-link-color: #333;
@@ -523,7 +498,7 @@ h6 {
 }
 
 .banner-ad.large .banner-content .categories {
-  color: rgb(255, 255, 255);
+  color: var( --accent-color);
 }
 
 .banner-ad.large .banner-content .banner-title {
